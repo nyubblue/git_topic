@@ -18,6 +18,9 @@ elasticitys1 (n) đ2ộ mềm dẽo
 elasticitys3 (n) độ mềm 2dẽo
 Fault-Tolerance : /fɔːlt/   /ˈtɒlərəns/ Khả năng chịu lỗi
 Agility : /əˈdʒɪləti/ nhanh gọn, lanh lẹ
+Agility : /əˈdʒɪləti/ nhanh gọn, lanh lẹ
+Agility : /əˈdʒɪləti/ nhanh gọn, lanh lẹ
+Agility : /əˈdʒɪləti/ nhanh gọn, lanh lẹ
 Cluster (n) /ˈklʌstə(r)/ cụm
 Compliance (n) /kəmˈplaɪəns/ Tuân thủ
 governance (n) /ˈɡʌvənəns/ quản trị , điều hành
