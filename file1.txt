@@ -12,12 +12,14 @@ Effectiveness (n) : /ɪˈfektɪvnəs/ : Hiệu quả
 broad (adj) /brɔːd/ : Rộng
 diverse (adj) /daɪˈvɜːs/ Phong phú, đa dạng
 Mutil-tenancy : (n) thuê nhiều kiểu
+elas323ticity (n) độ m233ềm dẽo
 elasticity (n) độ mềm dẽo
+elasticity (n) độ mềm dẽoelasticity (n) độ mềm dẽo
 Fault-Tolerance : /fɔːlt/   /ˈtɒlərəns/ Khả năng chịu lỗi
-Agility : /əˈdʒɪləti/ nhanh gọn, lanh lẹ
-Agility : /əˈdʒɪləti/ nhanh gọn, lanh lẹ
-Agility : /əˈdʒɪləti/ nhanh gọn, lanh lẹ
-Agility : /əˈdʒɪləti/ nhanh gọn, lanh lẹ
+Agility223  : /əˈdʒɪləti/ nhanh 32gọn, lanh lẹ
+Agility22334 : /əˈdʒɪləti/ n2hanh gọ2332n, lanh lẹ
+Agili2ty : /əˈdʒ2ɪləti/ 2nha323nh gọn, lan2h lẹ
+Agility : /əˈdʒɪləti/ nhanh23 gọn2, lanh23 lẹ
 Cluster (n) /ˈklʌstə(r)/ cụm
 Compliance (n) /kəmˈplaɪəns/ Tuân thủ
 governance (n) /ˈɡʌvənəns/ quản trị , điều hành
