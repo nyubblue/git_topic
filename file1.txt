@@ -1,0 +1,45 @@
+The Cloud Pratitioner : học viên cloud
+challenging (adj) /ˈtʃælɪndʒɪŋ/ một cách đầy thách thức hấp dẫn
+what is a server composed of ?     1 server bao gồm những gì ?
+infrastructure (n) /ˈɪnfrəstrʌktʃə(r)/ : cơ sở hạ tầng
+delivery : vận chuyển, phân phối
+expose : (v) lộ ra, khám phá ra
+provision : (v) cung cấp đầy đủ sth..
+sensitive :(adj) 1 cách nhạy cảm.
+hybrid  : (adj) Hổn hợp
+Flexibility: (n) /ˌfleksəˈbɪləti/: the ability to change to suit new conditions or situations
+Effectiveness (n) : /ɪˈfektɪvnəs/ : Hiệu quả
+broad (adj) /brɔːd/ : Rộng
+diverse (adj) /daɪˈvɜːs/ Phong phú, đa dạng
+Mutil-tenancy : (n) thuê nhiều kiểu
+elasticity (n) độ mềm dẽo
+Fault-Tolerance : /fɔːlt/   /ˈtɒlərəns/ Khả năng chịu lỗi
+Agility : /əˈdʒɪləti/ nhanh gọn, lanh lẹ
+Cluster (n) /ˈklʌstə(r)/ cụm
+Compliance (n) /kəmˈplaɪəns/ Tuân thủ
+governance (n) /ˈɡʌvənəns/ quản trị , điều hành
+legal (adj) /ˈliːɡl/ hợp pháp, về mặt pháp luật
+explicit :(adj) /ɪkˈsplɪsɪt/ rõ ràng, tường minh
+proximity (n) /prɒkˈsɪməti/ sự gần (the state of being near something in distance or time.)
+transparent (adj) /trænsˈpærənt/ trong suốt, rõ ràng
+vary (v) /ˈveəri/ thay đổi theo thời gian hoặc một thông số nào đó
+differ (v) khác nhau (không có đặc điểm giống nhau), có ý kiến trái chiều không đồng tình
+Redundant power: (n) /rɪˈdʌndənt/ Năng lượng dự phòng.
+Disaster (n) /dɪˈzɑːstə(r)/ : thảm họa
+compromise (n) /ˈkɒmprəmaɪz/ Sự tổn hại
+steal (v) /stiːl/ stolen (v3) /ˈstəʊlən/ : đánh cắp
+privilege (n) /ˈprɪvəlɪdʒ/  đặc quyền, quyền
+principle (n) /ˈprɪnsəpl/ nguyên tắc
+credentials (n) /krəˈdenʃlz/ the qualities, training or experience that make you suitable to do something
+Accelerate (v) /əkˈseləreɪt/ tăng tốc
+perspective (n)  /pəˈspektɪv/ viễn cảnh
+Shield (n) /ʃiːld/ lá chắn
+serve (v) phục vụ
+Replication (n) sự nhân rộng
+leverage (v) /ˈliːvərɪdʒ/ tận dụng , đòn bẩy
+marketplace (n) thương mại , thị trường
+integrity (n) /ɪnˈteɡrəti/ sự toàn vẹn
+severity (n)/sɪˈverəti/  mức độ nghiêm trọng
+duty (n) /ˈdjuːti/ nghĩa vụ
+dictate (v) /dɪkˈteɪt/ ra lệnh , chỉ thị
+accountable (adj) chịu trách nhiệm
