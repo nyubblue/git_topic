@@ -15,6 +15,9 @@ Mutil-tenancy : (n) thuê nhiều kiểu
 elasticity (n) độ mềm dẽo
 Fault-Tolerance : /fɔːlt/   /ˈtɒlərəns/ Khả năng chịu lỗi
 Agility : /əˈdʒɪləti/ nhanh gọn, lanh lẹ
+Agility : /əˈdʒɪləti/ nhanh gọn, lanh lẹ
+Agility : /əˈdʒɪləti/ nhanh gọn, lanh lẹ
+Agility : /əˈdʒɪləti/ nhanh gọn, lanh lẹ
 Cluster (n) /ˈklʌstə(r)/ cụm
 Compliance (n) /kəmˈplaɪəns/ Tuân thủ
 governance (n) /ˈɡʌvənəns/ quản trị , điều hành
