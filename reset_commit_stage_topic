@@ -1,6 +1,0 @@
-1. reset 1 commit :
-git reset --soft HEAD~1
-2. reset 1 staged
-git restore --staged .
-Note . <=> all directory
-
