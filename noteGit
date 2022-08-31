@@ -1,16 +1,15 @@
-git remote add origin .....namebprojcet.git
+1. git reset --soft B: 
 
-git push -u origin <name branch>
+Sẽ đưa HEAD về vị trí commit B, giữ nguyên các thay đổi đã được git add tại B trong Staging Area. Tương ứng với tại B ta vừa git add xong, khi này chỉ việc git commit là ta lại có commit như C bên trên.
+2. git reset B: 
+
+Sẽ đưa HEAD về vị trí commit B, đồng thời đưa các thay đổi về Working directory. Tương ứng với tại B ta vừa cột xong, chưa git add.
+3. git reset --hard B: Sẽ đưa HEAD về vị trí commit B, đồng thời loại bỏ tất cả các thay đổi tại B. Tương ứng với tại B ta chưa code gì cả, xong phim.
 
 
-1. Create ssh key:  ssh-keygen -t ed25519 -C "your_email@example.com"**
-or Generating a new SSH key for a hardware security key : $ ssh-keygen -t ed25519-sk -C "your_email@example.com"
-2. Auto-launching the ssh-agent
-$ eval "$(ssh-agent -s)"
-> Agent pid 59566
-3. Adding your SSH key to the ssh-agent
-ssh-add ~/.ssh/id_ed25519
+4. Vài điều về HEAD
+Đôi khi bạn thấy lệnh git reset HEAD~1 thì nó cũng tương đương với lệnh git reset B như trên, vì HEAD~1 chính là lùi HEAD lại 1 commit.
 
-id_ed25519 is key that you entered when generating ssh key
-If you entered key = "ssh_key" then you must copy to ssh_key.pub to ~/.ssh/
-Or you entered key = "/c/Users/you/.ssh/id_algorithm" then you don't need to copy to ~/.ssh/ 
+HEAD chính là commit hiện tại ta đang đứng.
+HEAD~1 là commit ngay trước HEAD trên cùng nhánh
+HEAD~n là commit trước HEAD n commit trên cùng nhánh
